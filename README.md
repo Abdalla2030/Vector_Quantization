@@ -7,7 +7,7 @@ inputs : Vector size and code book size
 
 You should compress and decompress
 
-//////////////////////////////////////////////
+
 
 For Compression Inputs will be :
 
