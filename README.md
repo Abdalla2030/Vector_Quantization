@@ -39,10 +39,12 @@ The decompressed image
 Example
 
 image input 
+
 ![](images/dog.jpg)
 
 
 output 
+
 ![](images/out.jpg)
 
 
