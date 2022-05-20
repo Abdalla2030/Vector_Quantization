@@ -40,6 +40,8 @@ Example
 
 image input 
 
+![](images/console.jpg)
+
 ![](images/dog.jpg)
 
 
