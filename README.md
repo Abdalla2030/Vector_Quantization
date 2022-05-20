@@ -38,7 +38,7 @@ The decompressed image
 
 Example
 
-image input 
+input 
 
 ![](images/console.jpg)
 
